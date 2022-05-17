@@ -1,6 +1,11 @@
 # backend
 A Django GraphQL (Graphene) base template
 
+## Prerequiests
+
+* need postgres server[default creditionals:]
+## Setup
+
 * Make sure your IDE/Editor has [Black](https://black.readthedocs.io/en/stable/editor_integration.html) and [EditorConfig](https://editorconfig.org/#pre-installed) plugins installed; and configure it lint file automatically when you edit/save.
 * We use [Python Poetry](https://python-poetry.org) to manage depedencies
 * `poetry install` will install all required depedencies
